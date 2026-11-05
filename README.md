@@ -8,6 +8,7 @@ I enjoy designing and building software solutions, exploring distributed archite
 
 I'm always looking to improve my skills and take on new challenges in software engineering.
 
+🌐 **Portfolio:** [Visit my Portfolio](https://mauromesa2020.github.io/portfolio/)
 
 ## 🛠️ Technical Skills
 
@@ -65,7 +66,7 @@ I'm always looking to improve my skills and take on new challenges in software e
 A web application for automated security analysis of software projects. It combines static and dynamic analysis tools to identify potential vulnerabilities, with a relational database for project and analysis persistence.
 
 **Technologies:**
-`Python` `Flask` `React` `Tailwind` `Postgres` `Docker` `Semgrep` `OWASP ZAP`
+`Python` `Flask` `React` `Tailwind` `PostgreSQL` `Docker` `Semgrep` `OWASP ZAP`
 
 [Repository](https://github.com/MauroMesa2020/security-app)
 
@@ -89,9 +90,9 @@ A research project focused on building AI agents from scratch, without relying o
 A distributed microservices application for facial detection, feature extraction, and face comparison. It also includes a service capable of detecting and extracting multiple faces from a single image, allowing individual identification and comparison.
 
 **Technologies:**
-`C#` `.NET` `PostgreSQL` `Docker` `Computer Vision`
+`C#` `.NET` `PostgreSQL` `Docker` `Computer Vision` `Vector Databases`
 
-[Repository](https://github.com/MauroMesa2020/face-recognition)
+[Repository](https://github.com/MauroMesa2020/facial-recognition)
 
 ---
 
@@ -101,9 +102,9 @@ A distributed microservices application for facial detection, feature extraction
 A distributed educational platform designed to connect students and teachers in real time. It aims to provide interactive tutoring sessions and an AI-powered chatbot using Retrieval-Augmented Generation (RAG) and vector databases to answer students' questions.
 
 **Technologies:**
-`Java` `Spring Boot` `.NET` `React` `Microservices` `RAG`
+`Java` `Spring Boot` `.NET` `React` `Typescript` `Tailwind` `Microservices` `RAG` `LLMs` `Redis` `Kafka`
 
-[Repository](https://github.com/MauroMesa2020/teacherhelp)
+[Repository](https://github.com/MauroMesa2020/edu)
 
 ---
 
@@ -118,17 +119,33 @@ My personal portfolio showcasing software development projects, technical skills
 [Repository](https://github.com/MauroMesa2020/portfolio)
 
 
-<!--
-**MauroMesa2020/MauroMesa2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Professional Experience
 
-Here are some ideas to get you started:
+### Full-Stack Software Development – Cybersecurity Project
+**Duration:** 1+ Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Participated in the development of an AI-powered web application for a company, focused on cybersecurity analysis and risk assessment.
+
+**Key Responsibilities & Contributions:**
+- Developed both backend and frontend components, working with a layered architecture.
+- Integrated Artificial Intelligence technologies, including LLMs and BERT, into application functionalities.
+- Designed and implemented REST APIs and relational database persistence.
+- Participated in requirements gathering, risk analysis, software planning, and technical documentation.
+- Implemented automated processes and integrations with external tools.
+- Designed and executed software testing activities following ISO/IEC/IEEE 29119 guidelines.
+
+**Testing & Quality Assurance:**
+- Unit Testing: Python unittest and JUnit.
+- API Testing: Postman.
+- UI and End-to-End Testing: Selenium.
+- Integration, system, non-functional, and acceptance testing.
+
+**Technologies:**
+`Python` `Flask` `React` `MariaDB` `Docker` `LLMs` `BERT` `REST APIs` `Selenium` `JUnit` `Postman`
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-joel-mesa-0a5a69342/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mauromesa2020@gmail.com)
+
