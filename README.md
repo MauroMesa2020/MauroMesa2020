@@ -146,6 +146,6 @@ Participated in the development of an AI-powered web application for a company, 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-joel-mesa-0a5a69342/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://mauromesa2020.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mauromesa2020@gmail.com)
 
